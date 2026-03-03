@@ -8,9 +8,8 @@ para extender el tiempo de lectura.
 - No debe permitirse renovar si hay lista de espera.
 - Debe actualizarse la nueva fecha de vencimiento.
 
-# BIBLIOTECA DIGITAL
 
-## Requrimientos No Funcionales
+## Requerimientos No Funcionales
 
 
 **RNF-01 Disponibilidad:** El sistema debe estar disponible el 95% del tiempo mensual.
