@@ -1,5 +1,6 @@
 ---
-# RF-02  📚 Solicitud de Préstamo 
+# RF-02   Solicitud de Prestamo 
+📚
 
 ## HU-02 – 💻 Solicitar Préstamo Digital
 
